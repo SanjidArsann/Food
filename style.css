@@ -1,0 +1,101 @@
+.container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: gray;
+}
+h2{
+    color: slategrey; 
+}
+span{
+    color: #FFA500;
+}
+.para{
+    padding-right: 200px;
+    color: black;
+    line-height: 1.6;
+}
+p{
+    color: grey;
+    padding-bottom: 20px;
+    line-height: 1.6; 
+}
+.half-width{
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 40px;
+}
+#second-img{
+    width: 40%;
+    padding-left: 150px;
+}
+.button {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(#FC984C , #FE4A2F);
+    padding: 10px;
+    border-radius: 100px;
+    color: aliceblue;
+}
+.container-background{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    
+}
+#recipies{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.third-part{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.iteam{
+    width: 320px;
+}
+.reciepies-item{
+    margin: 40px;
+    padding: 10px;
+    width: 100%;
+    box-shadow: 5px 10px 18px;
+    border-radius: 20px;
+}
+.Follower{
+    display: flex;
+    margin-right: 70px;
+    margin-left: 70px;
+    box-shadow: 5px 10px 18px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+.follower{
+    padding-right: 100px;
+    padding-left: 100px;
+    
+}
+.follower h1{
+    color: black;
+}
+.foot{
+    text-align: center;
+    padding: 50px;
+}
+.Foot{
+    background-color: #FDE2DB;
+}
